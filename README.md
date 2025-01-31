@@ -110,3 +110,13 @@ Updated main.py file containing the API code.
 requirements.txt file listing dependencies.
 
 Screenshot of Swagger UI.
+
+Author
+
+[[Guiller Neri] - Your GitHub Profile](https://github.com/neri-Guiller09)
+
+[Repository Link
+
+GitHub Repository](https://github.com/neri-Guiller09/LAB3)
+
+
