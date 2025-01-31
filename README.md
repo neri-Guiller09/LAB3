@@ -1,7 +1,3 @@
-FastAPI API Development with JSON Handling
-
-Overview
-
 This repository contains an API developed using FastAPI. The API provides an endpoint that retrieves detailed posts of a specific user, including all comments per post. The implementation focuses on JSON parsing, data traversal, and conversion of Python data structures into valid JSON format.
 
 Features
