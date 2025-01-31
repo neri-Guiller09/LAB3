@@ -115,8 +115,6 @@ Author
 
 [[Guiller Neri] - Your GitHub Profile](https://github.com/neri-Guiller09)
 
-[Repository Link
-
-GitHub Repository](https://github.com/neri-Guiller09/LAB3)
+https://github.com/neri-Guiller09/LAB3
 
 
